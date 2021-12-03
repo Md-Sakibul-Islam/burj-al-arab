@@ -1,0 +1,10 @@
+.login-from input{
+    width: 70%;
+    border: 1.2px solid red;
+    padding: 10px;
+    border-radius: 20px;
+}
+.login-btn {
+    width: 200px;
+    margin: 10px;
+}
